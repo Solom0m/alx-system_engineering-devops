@@ -1,1 +1,1 @@
-The shebang that prints the absolute pathname of the current working directory
+The shebang and how to  Display the contents list of your current directory
